@@ -1,20 +1,20 @@
-.papi {
+.padre {
 	width: 70%;
 	border: solid 1px gray;
 }
-.primi {
+.primero {
 	background-color: #FFFF00;
 	width: 25%;
 	height: 100px;
 	float: left;
 }
-.segun {
+.segundo {
 	background-color: #3A81BA;
 	width: 25%;
 	height: 100px;
 	float: left;
 }
-.terci {
+.tercero {
 	background-color: #ED2251;
 	width: 25%;
 	height: 100px;
