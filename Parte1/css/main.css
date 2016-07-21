@@ -1,19 +1,19 @@
-div {
-	width: 600px;
-	height: 300px;
+.papi {
+	width: 70%;
 	border: solid 1px gray;
-}
-body div div {
-	width: 200px;
-	height: 100px;
-	border: none;
 }
 .primi {
 	background-color: #FFFF00;
+	width: 25%;
+	height: 100px;
 }
 .segun {
 	background-color: #3A81BA;
+	width: 25%;
+	height: 100px;
 }
 .terci {
 	background-color: #ED2251;
+	width: 25%;
+	height: 100px;
 }
