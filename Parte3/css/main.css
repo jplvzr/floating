@@ -1,1 +1,22 @@
-/* Pon tu código css aqui */
+.papi {
+	width: 70%;
+	border: solid 1px gray;
+}
+.primi {
+	background-color: #FFFF00;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.segun {
+	background-color: #3A81BA;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.terci {
+	background-color: #ED2251;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
