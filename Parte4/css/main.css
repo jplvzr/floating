@@ -1,1 +1,38 @@
-/* Pon tu código css aqui */
+.padre {
+	width: 70%;
+	border: solid 1px gray;
+}
+
+.clearfix {
+	*zoom:1;
+}
+
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.primero {
+	background-color: #FFFF00;
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+
+.segundo {
+	background-color: #3A81BA;
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+
+.tercero {
+	background-color: #ED2251;
+	width: 25%;
+	height: 100px;
+	float: left;
+}
